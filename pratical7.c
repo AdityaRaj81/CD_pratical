@@ -14,7 +14,7 @@ typedef enum {
     END
 } TokenType;
 
-// Token structure
+// Token structure  
 typedef struct {
     TokenType type;
     int value; // Only used for NUMBER type
