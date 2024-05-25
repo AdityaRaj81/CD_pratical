@@ -29,4 +29,4 @@ This repository contains a collection of practical programs for Compiler Design,
 ## Contact
 Aditya Raj - connect2rajaditya@gmail.com
 
-GitHub Repo: https://github.com/AdityaRaj81/compiler-design-practical
+GitHub Repo: https://github.com/AdityaRaj81/compiler-design
